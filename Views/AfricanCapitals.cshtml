@@ -1,0 +1,31 @@
+@model QuizModel
+
+<h2>African Capitals Quiz</h2>
+
+<p>@Model.Question</p>
+
+<p>correct</p>
+<p>@Model.CorrectAnswer</p>
+<p>user answer</p>
+<p>@Model.UserAnswer</p>
+
+@using (Html.BeginForm("StartQuiz", "Quiz", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Question)
+    @Html.HiddenFor(m => m.CorrectAnswer)
+    @Html.HiddenFor(m => m.PreviousCorrectAnswers)
+    @Html.HiddenFor(m => m.AnsweredCorrectly)
+
+    <input type="text" name="UserAnswer" required />
+    <input type="hidden" name="quizType" value="African capitals" />
+    <input type="submit" value="Submit" />
+}
+
+@if (Model.AnsweredCorrectly)
+{
+    <p>Congratulations, you answered correctly!</p>
+}
+else
+{
+    <p>Sorry, your answer was incorrect.</p>
+}

@@ -1,0 +1,17 @@
+@model QuizModel
+
+<h2>World Capitals Quiz</h2>
+
+<p>@Model.Question</p>
+
+@using (Html.BeginForm("CheckAnswer", "Quiz", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Question)
+    @Html.HiddenFor(m => m.CorrectAnswer)
+    
+    <input type="text" name="UserAnswer" required />
+    <input type="hidden" name="quizType" value="World capitals" />
+    <input type="submit" value="Submit" />
+}
+
+<p>Correct answers: @Model.AnsweredCorrectly</p>

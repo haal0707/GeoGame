@@ -1,0 +1,20 @@
+@model QuizModel
+
+<h2>Welcome to the Geography Quiz!</h2>
+
+@using (Html.BeginForm("StartQuiz", "Quiz", FormMethod.Post))
+{
+    <select name="quizType">
+        <option value="--Option--">--Option--</option>
+        <option value="European capitals">European capitals</option>
+        <option value="Asian capitals">Asian capitals</option>
+        <option value="African capitals">African capitals</option>
+        <option value="American capitals">American capitals</option>
+        <option value="World capitals">World capitals</option>
+        <option value="World countries">World countries</option>
+        <option value="World flags">World flags</option>
+    </select>
+    <br />
+    <br />
+    <input type="submit" value="Start Quiz" />
+}

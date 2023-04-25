@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GeoGame
+build_property.RootNamespace = GeoGame
+build_property.ProjectDir = /Users/hannesalm/GeoGame/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/hannesalm/GeoGame
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/hannesalm/GeoGame/Views/AfricanCapitals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWZyaWNhbkNhcGl0YWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/AsianCapitals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNpYW5DYXBpdGFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Quiz/EuropeanCapitals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVpei9FdXJvcGVhbkNhcGl0YWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Quiz/GeugraphyQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVpei9HZXVncmFwaHlRdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Quiz/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVpei9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Quiz/WorldCountries.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVpei9Xb3JsZENvdW50cmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Quiz/WorldFlags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVpei9Xb3JsZEZsYWdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Quiz/_AnswerResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVpei9fQW5zd2VyUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/WorldCapitals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV29ybGRDYXBpdGFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hannesalm/GeoGame/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r8w12n2yt3

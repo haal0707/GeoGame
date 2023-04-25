@@ -1,0 +1,1213 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hannesalm/GeoGame/obj/Debug/net7.0/scopedcss/projectbundle/GeoGame.bundle.scp.css",
+      "PackagePath": "staticwebassets/GeoGame.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/.json",
+      "PackagePath": "staticwebassets/GeoJson/.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AD.json",
+      "PackagePath": "staticwebassets/GeoJson/AD.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AE.json",
+      "PackagePath": "staticwebassets/GeoJson/AE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AF.json",
+      "PackagePath": "staticwebassets/GeoJson/AF.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AG.json",
+      "PackagePath": "staticwebassets/GeoJson/AG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AI.json",
+      "PackagePath": "staticwebassets/GeoJson/AI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AL.json",
+      "PackagePath": "staticwebassets/GeoJson/AL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AM.json",
+      "PackagePath": "staticwebassets/GeoJson/AM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AO.json",
+      "PackagePath": "staticwebassets/GeoJson/AO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AR.json",
+      "PackagePath": "staticwebassets/GeoJson/AR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AS.json",
+      "PackagePath": "staticwebassets/GeoJson/AS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AT.json",
+      "PackagePath": "staticwebassets/GeoJson/AT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AU.json",
+      "PackagePath": "staticwebassets/GeoJson/AU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AW.json",
+      "PackagePath": "staticwebassets/GeoJson/AW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/AZ.json",
+      "PackagePath": "staticwebassets/GeoJson/AZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BA.json",
+      "PackagePath": "staticwebassets/GeoJson/BA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BB.json",
+      "PackagePath": "staticwebassets/GeoJson/BB.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BD.json",
+      "PackagePath": "staticwebassets/GeoJson/BD.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BE.json",
+      "PackagePath": "staticwebassets/GeoJson/BE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BF.json",
+      "PackagePath": "staticwebassets/GeoJson/BF.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BG.json",
+      "PackagePath": "staticwebassets/GeoJson/BG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BH.json",
+      "PackagePath": "staticwebassets/GeoJson/BH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BI.json",
+      "PackagePath": "staticwebassets/GeoJson/BI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BJ.json",
+      "PackagePath": "staticwebassets/GeoJson/BJ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BM.json",
+      "PackagePath": "staticwebassets/GeoJson/BM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BN.json",
+      "PackagePath": "staticwebassets/GeoJson/BN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BO.json",
+      "PackagePath": "staticwebassets/GeoJson/BO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BR.json",
+      "PackagePath": "staticwebassets/GeoJson/BR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BS.json",
+      "PackagePath": "staticwebassets/GeoJson/BS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BT.json",
+      "PackagePath": "staticwebassets/GeoJson/BT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BV.json",
+      "PackagePath": "staticwebassets/GeoJson/BV.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BW.json",
+      "PackagePath": "staticwebassets/GeoJson/BW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BY.json",
+      "PackagePath": "staticwebassets/GeoJson/BY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/BZ.json",
+      "PackagePath": "staticwebassets/GeoJson/BZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CA.json",
+      "PackagePath": "staticwebassets/GeoJson/CA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CC.json",
+      "PackagePath": "staticwebassets/GeoJson/CC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CD.json",
+      "PackagePath": "staticwebassets/GeoJson/CD.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CF.json",
+      "PackagePath": "staticwebassets/GeoJson/CF.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CG.json",
+      "PackagePath": "staticwebassets/GeoJson/CG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CH.json",
+      "PackagePath": "staticwebassets/GeoJson/CH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CI.json",
+      "PackagePath": "staticwebassets/GeoJson/CI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CK.json",
+      "PackagePath": "staticwebassets/GeoJson/CK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CL.json",
+      "PackagePath": "staticwebassets/GeoJson/CL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CM.json",
+      "PackagePath": "staticwebassets/GeoJson/CM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CN.json",
+      "PackagePath": "staticwebassets/GeoJson/CN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CO.json",
+      "PackagePath": "staticwebassets/GeoJson/CO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CR.json",
+      "PackagePath": "staticwebassets/GeoJson/CR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CU.json",
+      "PackagePath": "staticwebassets/GeoJson/CU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CV.json",
+      "PackagePath": "staticwebassets/GeoJson/CV.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CX.json",
+      "PackagePath": "staticwebassets/GeoJson/CX.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CY.json",
+      "PackagePath": "staticwebassets/GeoJson/CY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/CZ.json",
+      "PackagePath": "staticwebassets/GeoJson/CZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/DE.json",
+      "PackagePath": "staticwebassets/GeoJson/DE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/DJ.json",
+      "PackagePath": "staticwebassets/GeoJson/DJ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/DK.json",
+      "PackagePath": "staticwebassets/GeoJson/DK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/DM.json",
+      "PackagePath": "staticwebassets/GeoJson/DM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/DO.json",
+      "PackagePath": "staticwebassets/GeoJson/DO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/DZ.json",
+      "PackagePath": "staticwebassets/GeoJson/DZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/EC.json",
+      "PackagePath": "staticwebassets/GeoJson/EC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/EE.json",
+      "PackagePath": "staticwebassets/GeoJson/EE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/EG.json",
+      "PackagePath": "staticwebassets/GeoJson/EG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/EH.json",
+      "PackagePath": "staticwebassets/GeoJson/EH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ER.json",
+      "PackagePath": "staticwebassets/GeoJson/ER.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ES.json",
+      "PackagePath": "staticwebassets/GeoJson/ES.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ET.json",
+      "PackagePath": "staticwebassets/GeoJson/ET.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/FI.json",
+      "PackagePath": "staticwebassets/GeoJson/FI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/FJ.json",
+      "PackagePath": "staticwebassets/GeoJson/FJ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/FK.json",
+      "PackagePath": "staticwebassets/GeoJson/FK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/FM.json",
+      "PackagePath": "staticwebassets/GeoJson/FM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/FO.json",
+      "PackagePath": "staticwebassets/GeoJson/FO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/FR.json",
+      "PackagePath": "staticwebassets/GeoJson/FR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GA.json",
+      "PackagePath": "staticwebassets/GeoJson/GA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GB.json",
+      "PackagePath": "staticwebassets/GeoJson/GB.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GD.json",
+      "PackagePath": "staticwebassets/GeoJson/GD.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GE.json",
+      "PackagePath": "staticwebassets/GeoJson/GE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GF.json",
+      "PackagePath": "staticwebassets/GeoJson/GF.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GH.json",
+      "PackagePath": "staticwebassets/GeoJson/GH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GI.json",
+      "PackagePath": "staticwebassets/GeoJson/GI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GL.json",
+      "PackagePath": "staticwebassets/GeoJson/GL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GM.json",
+      "PackagePath": "staticwebassets/GeoJson/GM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GN.json",
+      "PackagePath": "staticwebassets/GeoJson/GN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GP.json",
+      "PackagePath": "staticwebassets/GeoJson/GP.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GQ.json",
+      "PackagePath": "staticwebassets/GeoJson/GQ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GR.json",
+      "PackagePath": "staticwebassets/GeoJson/GR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GT.json",
+      "PackagePath": "staticwebassets/GeoJson/GT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GU.json",
+      "PackagePath": "staticwebassets/GeoJson/GU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GW.json",
+      "PackagePath": "staticwebassets/GeoJson/GW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/GY.json",
+      "PackagePath": "staticwebassets/GeoJson/GY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/HK.json",
+      "PackagePath": "staticwebassets/GeoJson/HK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/HM.json",
+      "PackagePath": "staticwebassets/GeoJson/HM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/HN.json",
+      "PackagePath": "staticwebassets/GeoJson/HN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/HR.json",
+      "PackagePath": "staticwebassets/GeoJson/HR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/HT.json",
+      "PackagePath": "staticwebassets/GeoJson/HT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/HU.json",
+      "PackagePath": "staticwebassets/GeoJson/HU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ID.json",
+      "PackagePath": "staticwebassets/GeoJson/ID.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IE.json",
+      "PackagePath": "staticwebassets/GeoJson/IE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IL.json",
+      "PackagePath": "staticwebassets/GeoJson/IL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IN.json",
+      "PackagePath": "staticwebassets/GeoJson/IN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IO.json",
+      "PackagePath": "staticwebassets/GeoJson/IO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IQ.json",
+      "PackagePath": "staticwebassets/GeoJson/IQ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IR.json",
+      "PackagePath": "staticwebassets/GeoJson/IR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IS.json",
+      "PackagePath": "staticwebassets/GeoJson/IS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/IT.json",
+      "PackagePath": "staticwebassets/GeoJson/IT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/JM.json",
+      "PackagePath": "staticwebassets/GeoJson/JM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/JO.json",
+      "PackagePath": "staticwebassets/GeoJson/JO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/JP.json",
+      "PackagePath": "staticwebassets/GeoJson/JP.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KE.json",
+      "PackagePath": "staticwebassets/GeoJson/KE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KG.json",
+      "PackagePath": "staticwebassets/GeoJson/KG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KH.json",
+      "PackagePath": "staticwebassets/GeoJson/KH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KI.json",
+      "PackagePath": "staticwebassets/GeoJson/KI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KM.json",
+      "PackagePath": "staticwebassets/GeoJson/KM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KN.json",
+      "PackagePath": "staticwebassets/GeoJson/KN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KP.json",
+      "PackagePath": "staticwebassets/GeoJson/KP.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KR.json",
+      "PackagePath": "staticwebassets/GeoJson/KR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KW.json",
+      "PackagePath": "staticwebassets/GeoJson/KW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KY.json",
+      "PackagePath": "staticwebassets/GeoJson/KY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/KZ.json",
+      "PackagePath": "staticwebassets/GeoJson/KZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LA.json",
+      "PackagePath": "staticwebassets/GeoJson/LA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LB.json",
+      "PackagePath": "staticwebassets/GeoJson/LB.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LC.json",
+      "PackagePath": "staticwebassets/GeoJson/LC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LI.json",
+      "PackagePath": "staticwebassets/GeoJson/LI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LK.json",
+      "PackagePath": "staticwebassets/GeoJson/LK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LR.json",
+      "PackagePath": "staticwebassets/GeoJson/LR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LS.json",
+      "PackagePath": "staticwebassets/GeoJson/LS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LT.json",
+      "PackagePath": "staticwebassets/GeoJson/LT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LU.json",
+      "PackagePath": "staticwebassets/GeoJson/LU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LV.json",
+      "PackagePath": "staticwebassets/GeoJson/LV.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/LY.json",
+      "PackagePath": "staticwebassets/GeoJson/LY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MA.json",
+      "PackagePath": "staticwebassets/GeoJson/MA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MC.json",
+      "PackagePath": "staticwebassets/GeoJson/MC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MD.json",
+      "PackagePath": "staticwebassets/GeoJson/MD.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ME.json",
+      "PackagePath": "staticwebassets/GeoJson/ME.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MG.json",
+      "PackagePath": "staticwebassets/GeoJson/MG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MH.json",
+      "PackagePath": "staticwebassets/GeoJson/MH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MK.json",
+      "PackagePath": "staticwebassets/GeoJson/MK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ML.json",
+      "PackagePath": "staticwebassets/GeoJson/ML.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MM.json",
+      "PackagePath": "staticwebassets/GeoJson/MM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MN.json",
+      "PackagePath": "staticwebassets/GeoJson/MN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MO.json",
+      "PackagePath": "staticwebassets/GeoJson/MO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MP.json",
+      "PackagePath": "staticwebassets/GeoJson/MP.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MQ.json",
+      "PackagePath": "staticwebassets/GeoJson/MQ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MR.json",
+      "PackagePath": "staticwebassets/GeoJson/MR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MS.json",
+      "PackagePath": "staticwebassets/GeoJson/MS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MT.json",
+      "PackagePath": "staticwebassets/GeoJson/MT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MU.json",
+      "PackagePath": "staticwebassets/GeoJson/MU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MV.json",
+      "PackagePath": "staticwebassets/GeoJson/MV.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MW.json",
+      "PackagePath": "staticwebassets/GeoJson/MW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MX.json",
+      "PackagePath": "staticwebassets/GeoJson/MX.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MY.json",
+      "PackagePath": "staticwebassets/GeoJson/MY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/MZ.json",
+      "PackagePath": "staticwebassets/GeoJson/MZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NA.json",
+      "PackagePath": "staticwebassets/GeoJson/NA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NC.json",
+      "PackagePath": "staticwebassets/GeoJson/NC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NE.json",
+      "PackagePath": "staticwebassets/GeoJson/NE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NF.json",
+      "PackagePath": "staticwebassets/GeoJson/NF.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NG.json",
+      "PackagePath": "staticwebassets/GeoJson/NG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NI.json",
+      "PackagePath": "staticwebassets/GeoJson/NI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NL.json",
+      "PackagePath": "staticwebassets/GeoJson/NL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NO.json",
+      "PackagePath": "staticwebassets/GeoJson/NO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NP.json",
+      "PackagePath": "staticwebassets/GeoJson/NP.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NR.json",
+      "PackagePath": "staticwebassets/GeoJson/NR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NU.json",
+      "PackagePath": "staticwebassets/GeoJson/NU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/NZ.json",
+      "PackagePath": "staticwebassets/GeoJson/NZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/OM.json",
+      "PackagePath": "staticwebassets/GeoJson/OM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PA.json",
+      "PackagePath": "staticwebassets/GeoJson/PA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PE.json",
+      "PackagePath": "staticwebassets/GeoJson/PE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PF.json",
+      "PackagePath": "staticwebassets/GeoJson/PF.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PG.json",
+      "PackagePath": "staticwebassets/GeoJson/PG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PH.json",
+      "PackagePath": "staticwebassets/GeoJson/PH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PK.json",
+      "PackagePath": "staticwebassets/GeoJson/PK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PL.json",
+      "PackagePath": "staticwebassets/GeoJson/PL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PN.json",
+      "PackagePath": "staticwebassets/GeoJson/PN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PR.json",
+      "PackagePath": "staticwebassets/GeoJson/PR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PS.json",
+      "PackagePath": "staticwebassets/GeoJson/PS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PT.json",
+      "PackagePath": "staticwebassets/GeoJson/PT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PW.json",
+      "PackagePath": "staticwebassets/GeoJson/PW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/PY.json",
+      "PackagePath": "staticwebassets/GeoJson/PY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/QA.json",
+      "PackagePath": "staticwebassets/GeoJson/QA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/RE.json",
+      "PackagePath": "staticwebassets/GeoJson/RE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/RO.json",
+      "PackagePath": "staticwebassets/GeoJson/RO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/RS.json",
+      "PackagePath": "staticwebassets/GeoJson/RS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/RU.json",
+      "PackagePath": "staticwebassets/GeoJson/RU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/RW.json",
+      "PackagePath": "staticwebassets/GeoJson/RW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SA.json",
+      "PackagePath": "staticwebassets/GeoJson/SA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SB.json",
+      "PackagePath": "staticwebassets/GeoJson/SB.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SC.json",
+      "PackagePath": "staticwebassets/GeoJson/SC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SD.json",
+      "PackagePath": "staticwebassets/GeoJson/SD.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SE.json",
+      "PackagePath": "staticwebassets/GeoJson/SE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SG.json",
+      "PackagePath": "staticwebassets/GeoJson/SG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SI.json",
+      "PackagePath": "staticwebassets/GeoJson/SI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SJ.json",
+      "PackagePath": "staticwebassets/GeoJson/SJ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SK.json",
+      "PackagePath": "staticwebassets/GeoJson/SK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SL.json",
+      "PackagePath": "staticwebassets/GeoJson/SL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SM.json",
+      "PackagePath": "staticwebassets/GeoJson/SM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SN.json",
+      "PackagePath": "staticwebassets/GeoJson/SN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SO.json",
+      "PackagePath": "staticwebassets/GeoJson/SO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SR.json",
+      "PackagePath": "staticwebassets/GeoJson/SR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SS.json",
+      "PackagePath": "staticwebassets/GeoJson/SS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ST.json",
+      "PackagePath": "staticwebassets/GeoJson/ST.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SV.json",
+      "PackagePath": "staticwebassets/GeoJson/SV.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SY.json",
+      "PackagePath": "staticwebassets/GeoJson/SY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/SZ.json",
+      "PackagePath": "staticwebassets/GeoJson/SZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TC.json",
+      "PackagePath": "staticwebassets/GeoJson/TC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TD.json",
+      "PackagePath": "staticwebassets/GeoJson/TD.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TF.json",
+      "PackagePath": "staticwebassets/GeoJson/TF.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TG.json",
+      "PackagePath": "staticwebassets/GeoJson/TG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TH.json",
+      "PackagePath": "staticwebassets/GeoJson/TH.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TJ.json",
+      "PackagePath": "staticwebassets/GeoJson/TJ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TK.json",
+      "PackagePath": "staticwebassets/GeoJson/TK.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TL.json",
+      "PackagePath": "staticwebassets/GeoJson/TL.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TM.json",
+      "PackagePath": "staticwebassets/GeoJson/TM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TN.json",
+      "PackagePath": "staticwebassets/GeoJson/TN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TO.json",
+      "PackagePath": "staticwebassets/GeoJson/TO.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TR.json",
+      "PackagePath": "staticwebassets/GeoJson/TR.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TT.json",
+      "PackagePath": "staticwebassets/GeoJson/TT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TV.json",
+      "PackagePath": "staticwebassets/GeoJson/TV.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TW.json",
+      "PackagePath": "staticwebassets/GeoJson/TW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/TZ.json",
+      "PackagePath": "staticwebassets/GeoJson/TZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/UA.json",
+      "PackagePath": "staticwebassets/GeoJson/UA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/UG.json",
+      "PackagePath": "staticwebassets/GeoJson/UG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/US.json",
+      "PackagePath": "staticwebassets/GeoJson/US.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/UY.json",
+      "PackagePath": "staticwebassets/GeoJson/UY.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/UZ.json",
+      "PackagePath": "staticwebassets/GeoJson/UZ.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/VA.json",
+      "PackagePath": "staticwebassets/GeoJson/VA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/VC.json",
+      "PackagePath": "staticwebassets/GeoJson/VC.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/VE.json",
+      "PackagePath": "staticwebassets/GeoJson/VE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/VG.json",
+      "PackagePath": "staticwebassets/GeoJson/VG.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/VI.json",
+      "PackagePath": "staticwebassets/GeoJson/VI.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/VN.json",
+      "PackagePath": "staticwebassets/GeoJson/VN.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/VU.json",
+      "PackagePath": "staticwebassets/GeoJson/VU.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/WS.json",
+      "PackagePath": "staticwebassets/GeoJson/WS.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/YE.json",
+      "PackagePath": "staticwebassets/GeoJson/YE.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/YT.json",
+      "PackagePath": "staticwebassets/GeoJson/YT.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ZA.json",
+      "PackagePath": "staticwebassets/GeoJson/ZA.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ZM.json",
+      "PackagePath": "staticwebassets/GeoJson/ZM.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/ZW.json",
+      "PackagePath": "staticwebassets/GeoJson/ZW.json"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/GeoJson/log.txt",
+      "PackagePath": "staticwebassets/GeoJson/log.txt"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/hannesalm/GeoGame/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.GeoGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.GeoGame.props",
+      "PackagePath": "build\\GeoGame.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GeoGame.props",
+      "PackagePath": "buildMultiTargeting\\GeoGame.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GeoGame.props",
+      "PackagePath": "buildTransitive\\GeoGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

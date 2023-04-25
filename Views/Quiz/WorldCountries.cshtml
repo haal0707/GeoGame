@@ -1,0 +1,87 @@
+@model QuizModel
+
+<h2>World Countries Quiz</h2>
+<p>Hej</p>
+
+@* @{
+    var countryCodeLower = @Model.CountryCode.ToLower();
+    var imageUrl = $"https://raw.githubusercontent.com/djaiss/mapsicon/master/{Model.Continent}/{countryCodeLower}/256.png";
+} *@
+
+<div>
+    <svg width="960" height="600"></svg>
+</div>
+
+@using (Html.BeginForm("StartQuiz", "Quiz", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Question)
+    @Html.HiddenFor(m => m.CorrectAnswer)
+    
+    <input type="text" name="UserAnswer" required />
+    <input type="hidden" name="quizType" value="World countries" />
+    <input type="submit" value="Submit" />
+}
+
+<style>
+    path {
+        fill: lightgray;
+        stroke: #000;
+    }
+
+    .graticule {
+        fill: none;
+        stroke: #ccc;
+        stroke-width: .5px;
+    }
+
+    .foreground {
+        fill: none;
+        stroke: #333;
+        stroke-width: 1.5px;
+    }
+
+    svg {
+        margin-top: 20px;
+    }
+</style>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
+
+<script>
+
+const svg = d3.select("svg");
+const myProjection = d3.geoNaturalEarth1()
+const path = d3.geoPath().projection(myProjection)
+const graticule = d3.geoGraticule()
+
+function drawMap(err, c) {
+    //if (err) throw err
+
+    svg.append("path")
+        .datum(graticule)
+        .attr("class", "graticule")
+        .attr("d", path);
+
+    svg.append("path")
+        .datum(graticule.outline)
+        .attr("class", "foreground")
+        .attr("d", path);
+
+    svg.append("g")
+        .selectAll("path")
+        .data([c])
+        .enter().append("path")
+        .attr("d", path);
+}
+
+function renderCountry(cc) {
+    d3.json("/GeoJson/" + cc + ".json", drawMap);
+}
+renderCountry('@Model.CountryCode')
+</script>
+
+<p>@Model.CountryCode</p>
+
+
+
